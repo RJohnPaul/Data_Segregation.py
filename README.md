@@ -45,4 +45,4 @@ No additional installation is required beyond cloning the repository.
 -Object-Oriented Programming in Python: Learn more about object-oriented programming in Python.
 
 ## MIT License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RJohnPaul/Data_Segregation.py/blob/ad1ac3833ea4f978ec039ae68e4c2cf36d8fbc59/LICENSE) file for details.
