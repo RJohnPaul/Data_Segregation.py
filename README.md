@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-  <img src="PLACEHOLDER_IMAGE_URL" alt="Project Banner">
+  <img src="https://github.com/RJohnPaul/Data_Segregation.py/blob/0c67095a6bd67f8d7324b52c764de5e0a2c5d064/Py-Github.png" alt="Project Banner">
   <br />
 </div>
 
