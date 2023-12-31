@@ -4,7 +4,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/RJohnPaul/Data_Segregation.py/blob/0c67095a6bd67f8d7324b52c764de5e0a2c5d064/Py-Github.png" alt="Project Banner">
+  <img src="https://github.com/RJohnPaul/Data_Segregation.py/blob/31187b7b1553aa38b98cf1b292b37f701b08f4d8/Py-Github.png" alt="Project Banner">
   <br />
 </div>
 
